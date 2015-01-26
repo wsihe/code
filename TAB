@@ -1,0 +1,41 @@
+
+				<div>
+                	<div id="tab1" class="tabpage">
+                		<div class="tabtitle tab-title-l">
+                			<span>111</span>
+                        	<span>222</span>
+                        	<span>333</span>
+                        	<span>444</span>
+                            <span  id="historyTab">充值记录</span>
+                        </div>
+                        <div class="tabcon">	
+							<div style="display: none;" class="subtab"> </div>
+							<div style="display: block;" class="subtab"> </div>
+							<div style="display: none;" class="subtab"> </div>
+						</div>
+					</div>
+				</div>
+
+
+
+<!-- 	
+
+
+//选型卡g='异步数据请求方法名'
+	X.tab={
+		init:function(id){
+			id=id||'tab1';
+			var tab=$.$(id),tts=tab.find('div.tabtitle span'),tis=tab.find('div.tabcon div.subtab');
+			tts.first().addClass('curr');
+			tis.first().show().siblings().hide();
+			tts.click(function(){
+				var i = tts.index(this),currTab = tts.eq(i),currTabCon=tis.eq(i),g=currTab.attr('g');
+				if(currTab.hasClass('curr'))return;
+				currTab.addClass('curr').siblings().removeClass('curr');
+				if(g){eval(g);}
+				currTabCon.show().siblings().hide();
+			});
+		}
+	};
+	
+	-->
