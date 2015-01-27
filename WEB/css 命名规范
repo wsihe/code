@@ -1,0 +1,19 @@
+1. 内容优先,表现为辅
+  2. css命名中英文对照
+  current 当前     hover 悬停      selected 选中         disabled 禁用
+  header 头        nav 导航        mainbav 主导航        subnav 子导航         topnav 顶部导航     breadcrumb 面包屑导航
+  flink 友情链接   footer 尾       copyright 版权
+  menu 菜单        submenu 子菜单
+  searchBar 搜索条 search 搜索条   searchTxt 搜索框      searchBtn 搜索按钮    search_key 搜索词
+  ucenter 用户中心 loginBar 登陆条 login 登录            loginBtn 登录按钮     regsiter 注册按钮   regsiterBtn 注册按钮
+  name 用户名      password 密码   nickname 昵称         mobilephone 手机      telephone 电话
+  hot 热点         news 新闻       banner/AD 广告        download 下载
+  content 内容     title 标题      summary 摘要          time 时间
+  share 分享       digg 顶         like 喜欢
+  list 列表        pList 图片列表  tList 文字列表        tpList 图文列表
+  tab 标签         tags 标签       scroll 滚动 
+  sidebar 侧边栏   column 栏目     section 区块          msg 提示信息          status 状态
+  vote 投票        tips 小技巧     guild 指南            note 注释
+  icon- 图标       btn- 按钮
+  goods 商品       goodsList 商品列表        goodsDetail 商品详情     goodsInfo 商品信息
+  tuan 团购        tuanList 团购列表         tuanDetail  团购详情     tuanInfo 团购信息  
